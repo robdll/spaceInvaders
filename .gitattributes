@@ -1,2 +1,2 @@
-project-docs/* linguist-documentation
+Javadoc/* linguist-documentation
 docs/formatter.rb linguist-documentation=false
